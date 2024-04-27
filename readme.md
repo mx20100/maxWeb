@@ -1,0 +1,1 @@
+I made this website so I can not only get a bit more experience with coding, but also to finally populate my domain.
